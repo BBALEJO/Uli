@@ -1,0 +1,6 @@
+faster-whisper
+openai
+sounddevice
+numpy
+edge-tts
+requests
